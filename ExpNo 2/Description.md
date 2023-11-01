@@ -115,7 +115,7 @@ visited = defaultdict(bool)
 traversedpath = bfs(graph,start,visited,path)
 print(traversedpath)
 
-
+```
 <hr>
 <h3>Sample Input</h3>
 <hr>
@@ -127,7 +127,7 @@ print(traversedpath)
 2 4 <BR>
 3 4 <BR>
 <hr>
-```
+
 ## Sample output:
 
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/d46c4458-49d1-4f07-9f62-c3dc593beef3)
